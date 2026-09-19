@@ -123,6 +123,9 @@ The main objective is to use data analysis techniques to understand **customer s
 * Business Analysis
 * Customer Support Analytics
 
+* ## 👨‍💻 Video Link
+* https://youtu.be/kbMY3GiIGyw?si=68tX9EYYn8UdJC11
+
 ## 🚀 Conclusion
 
 This project demonstrates an end-to-end **Data Analyst workflow**, starting from raw customer-support data and progressing through Excel, SQL, and Python analysis to identify useful business insights.
